@@ -53,28 +53,29 @@
         "transparent": true,
         "override_on_update": true,
         "size": {
-          "width": 1212,
+          "width": 699,
           "height": 699
         },
         "min_size": {
-          "width": 1212,
+          "width": 699,
           "height": 699
         }
       },
       "in_game": {
         "file": "in_game.html",
-        "in_game_only": true,
+        "desktop_only": true,
+        "native_window": true,
         "focus_game_takeover": "ReleaseOnHidden",
         "focus_game_takeover_release_hotkey": "sample_app_ts_showhide",
         "resizable": true,
         "transparent": true,
         "override_on_update": true,
         "size": {
-          "width": 1212,
+          "width": 699,
           "height": 699
         },
         "min_size": {
-          "width": 1212,
+          "width": 699,
           "height": 699
         }
       }
